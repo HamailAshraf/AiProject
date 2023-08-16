@@ -121,8 +121,8 @@
         min-width: 100%;
     }
     .gpt3__whatgpt3 {
-        width: 250px;
-        margin-left: 18%;
+        width: 350px;
+        margin: auto;
     }
 }
 
@@ -134,7 +134,7 @@
     }
 
     .gpt3__whatgpt3 {
-        width: 250px;
-        margin-left: 3rem;
+        width: 300px;
+        margin-left: auto;
     }
 }
