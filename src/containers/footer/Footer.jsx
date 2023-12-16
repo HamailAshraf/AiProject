@@ -1,7 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 import './footer.css';
-import gpt3Logo from '../../assets/logo.svg';
 
 export const Footer = () => {
   return (
@@ -15,7 +14,7 @@ export const Footer = () => {
       </div>
       <div className='gpt3__footer-links'>
         <div className='gpt3__footer-links_logo'>
-          <img src={gpt3Logo}/>
+          <p className='gpt3__footer-links_logo_para'>Predict-ETH</p>
           <p>Floor#3 Block#Y Islamabad Pakistan, All Rights Reserved</p>
         </div>
         <div className='gpt3__footer-links_div'>

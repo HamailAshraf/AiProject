@@ -68,7 +68,7 @@
     flex-direction: column;
 }
 
-.gpt3__footer-links_logo img {
+.gpt3__footer-links_logo .gpt3__footer-links_logo_para {
     width: 118px;
     height: 30px;
 
